@@ -7,7 +7,9 @@
   "title": "Идея новая",
   "description": "1.  Отправить",
   "message": "1.  Отправить",
-  "attachments": [],
-  "status": "uploading",
+  "attachments": [
+    "22811_776963_2034094_original_processed.jpg"
+  ],
+  "status": "sent",
   "date": "2026-06-29 15:18:54"
 }
